@@ -43,7 +43,7 @@ As noted in the previous step, you may have seen evidence of GitHub Actions runn
 4. Wait about 20 seconds then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
 
 > [!NOTE]
-> Check out the **Finish** step to see what you can learn next!
+> Check out the ***Finish*** step to see what you can learn next!
 
 <footer>
 
