@@ -43,6 +43,10 @@ If you'd like to make a profile README, use the quickstart instructions below or
 
 Check out these resources to learn more or get involved:
 
+4. Wait about 20 seconds then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
+
+> [!NOTE]
+> Check out the ***Finish*** step to see what you can learn next!
 - Are you a student? Check out the [Student Developer Pack](https://education.github.com/pack).
 - [Take another GitHub Skills course](https://github.com/skills).
 - [Read the GitHub Getting Started docs](https://docs.github.com/en/get-started).
